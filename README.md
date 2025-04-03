@@ -4,7 +4,7 @@ A landing page webpage (Odin's Project Assignment)
 ## Description
 A webpage of a landing page is implemented using HTML and CSS.
 There is a focus on the application and understanding of flexbox in CSS.
-This is a sample landing page, and showcases an imaginary business called "Mandarin" which delivers
+This is a sample landing page, and showcases an imaginary business called *Mandarin* which delivers
 books and food through an online service.
 
 ## Image Credits
