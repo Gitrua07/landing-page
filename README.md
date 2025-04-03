@@ -1,5 +1,5 @@
 # landing-page
-A landing page webpage (Odin's Project Assignment)
+A landing page that implements The Odin Project Foundations assignment. 
 
 ## Description
 A webpage of a landing page is implemented using HTML and CSS.
